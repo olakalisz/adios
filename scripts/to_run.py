@@ -1,6 +1,7 @@
-import scripts.transfer.main_shaping_process as process
 import jax.random as jr
-import vshaping.shaping_funcs as sf
+
+import antibody_shapers.main_shaping_process as process
+import antibody_shapers.shaping_funcs as sf
 
 
 if __name__ == "__main__":
