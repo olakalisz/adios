@@ -5,7 +5,7 @@ import jax.random as jr
 
 import importlib.resources as pkg_resources
 
-with pkg_resources.open_binary("antibody_shapers.data", "jpadded_matrix.npy") as f:
+with pkg_resources.open_binary("adios.data", "jpadded_matrix.npy") as f:
     jpadded_matrix = jnp.load(f)
 
 

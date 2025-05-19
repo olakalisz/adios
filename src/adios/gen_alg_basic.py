@@ -4,7 +4,7 @@ import jax.numpy as jnp
 import jax.random as jr
 import numpy as np
 
-import antibody_shapers.binding.calculate_binding as binding
+import adios.binding.calculate_binding as binding
 import chex
 
 
@@ -12,7 +12,7 @@ rng = jr.PRNGKey(0)
 
 
 split_current_dir = os.getcwd().split('/')
-package_name = "antibody-shapers"
+package_name = "adios"
 base_dir = "/".join(split_current_dir[:split_current_dir.index(package_name)+1])
 
 prim_site_antibody = jnp.load(f"{base_dir}/data/2R29_primary_s_antibody.npy")

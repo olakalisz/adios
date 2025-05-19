@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "antibody_shapers"
+name = "adios"
 version = "0.1.0"
-description = "Opponent shaping for antibody development"
+description = "ADIOS: Antibody Development via Opponent Shaping"
 authors = ["Seb Towers and Ola Kalisz"]
 license = "MIT"
 readme = "README.md"

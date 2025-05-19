@@ -5,7 +5,7 @@ from typing import Tuple
 
 # Base directory
 split_current_dir = os.getcwd().split("/")
-package_name = "antibody-shapers"
+package_name = "adios"
 base_dir = "/".join(split_current_dir[: split_current_dir.index(package_name) + 1])
 
 

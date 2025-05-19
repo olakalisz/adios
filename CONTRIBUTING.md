@@ -40,10 +40,10 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `antibody_shapers` for local development.
+Ready to contribute? Here's how to set up `adios` for local development.
 
-1. Download a copy of `antibody_shapers` locally.
-2. Install `antibody_shapers` using `poetry`:
+1. Download a copy of `adios` locally.
+2. Install `adios` using `poetry`:
 
     ```console
     $ poetry install
@@ -69,5 +69,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `antibody_shapers` project is released with a
+Please note that the `adios` project is released with a
 Code of Conduct. By contributing to this project you agree to abide by its terms.

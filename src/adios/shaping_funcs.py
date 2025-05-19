@@ -7,12 +7,12 @@ import pickle as pkl
 import chex
 from itertools import chain
 
-from antibody_shapers import utils
-import antibody_shapers.gen_alg_basic as ga
+from adios import utils
+import adios.gen_alg_basic as ga
 
 # Base directory
 split_current_dir = os.getcwd().split('/')
-package_name = "antibody-shapers"
+package_name = "adios"
 base_dir = "/".join(split_current_dir[:split_current_dir.index(package_name)+1])
 
 

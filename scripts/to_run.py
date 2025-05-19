@@ -1,7 +1,7 @@
 import jax.random as jr
 
-import antibody_shapers.main_shaping_process as process
-import antibody_shapers.shaping_funcs as sf
+import adios.main_shaping_process as process
+import adios.shaping_funcs as sf
 
 
 if __name__ == "__main__":

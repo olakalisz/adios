@@ -5,9 +5,9 @@ import jax.numpy as jnp
 import jax.random as jr
 import importlib.resources as pkg_resources
 
-import antibody_shapers.gen_alg_basic as ga
-import antibody_shapers.shaping_funcs as sf
-import antibody_shapers.utils as utils
+import adios.gen_alg_basic as ga
+import adios.shaping_funcs as sf
+import adios.utils as utils
 
 
 def get_pose_matrix(
