@@ -1,5 +1,9 @@
 # ADIOS: Antibody Development via Opponent Shaping
 
+[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2409.10588-blue)](https://arxiv.org/abs/2409.10588)
+[![Blog](https://img.shields.io/badge/Blog-Read%20More-brightgreen)](https://olakalisz.github.io/adios-blog/)
+[![X (Twitter) Thread](https://img.shields.io/badge/X_(Twitter)-Thread-000000?logo=twitter)](https://x.com/OlaKalisz8/status/1940397694104842636)
+
 This is our implementation of the paper on [ADIOS: Antibody Development via Opponent Shaping](https://arxiv.org/abs/2409.10588).
 
 ![Graphical Abstact](./misc/graphical_abstract.png)
